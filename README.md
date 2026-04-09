@@ -4,7 +4,7 @@
 Rethinking Scattered Atmosphere Reconstruction as a Unified Understanding and Generation Model for Real-world Dehazing
 </h2>
 
-<b><p align=center> <a href='https://arxiv.org/pdf/2406.07966'><img src='https://img.shields.io/badge/ArXiv-2406.07966-red'></a>
+<b><p align=center> <a href='https://arxiv.org/abs/2604.07048'><img src='https://img.shields.io/badge/ArXiv-2604.07048-red'></a>
  </p></b>
 
 ## 📌 Overview
@@ -20,6 +20,11 @@ Real-world image dehazing (RID) aims to remove haze induced degradation from rea
 
 - **2026-04-09:** We release the arXiv version of PRISM and initialize this repository.
 
+## 🎨 Visualization Results
+
+<p align="center">
+  <img width="100%" src="figs/vis.jpg">
+  </p>
 
 ## 📎 Citation
 
