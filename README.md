@@ -8,7 +8,7 @@ Rethinking Scattered Atmosphere Reconstruction as a Unified Understanding and Ge
  </p></b>
 
 ## 📌 Overview
-> ⚙️ This repository is a work in progress. Code, training and inference scripts, pretrained weights, and results will be released soon.
+> ⚙️ This repository is being processed. Code, training and inference scripts, pretrained weights, and results will be released soon.
 
 > 😃 Welcome to explore our previous work [CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator), and our latest Python implementation of the [FADE metric](https://github.com/cnyvfang/PyFADE) (Welcome to PR or other contributions).
 
