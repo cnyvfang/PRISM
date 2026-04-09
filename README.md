@@ -1,4 +1,4 @@
-<p align=center><img src="figs/logo.png" width="50%"> </p>
+<p align=center><img src="figs/logo.png" width="40%"> </p>
 
 <h2 align="center">
 Rethinking Scattered Atmosphere Reconstruction as a Unified Understanding and Generation Model for Real-world Dehazing
