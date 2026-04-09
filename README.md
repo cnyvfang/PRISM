@@ -1,4 +1,4 @@
-<p align=center><img src="figs/logo.png" width="60%"> </p>
+<p align=center><img src="figs/logo.png" width="50%"> </p>
 
 <h1 align="center">
 Speedup Volume Understanding with Efficient Multimodal Large Language Models</h1>
