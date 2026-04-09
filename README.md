@@ -20,7 +20,7 @@ Real-world image dehazing (RID) aims to remove haze induced degradation from rea
 
 ## 📎 Citation
 
-If you find the code helpful in your research or work, please cite the following paper(s).
+If you find our work helpful in your research or projects, please cite the following paper(s).
 
 ```
 @article{fang2026prism,
